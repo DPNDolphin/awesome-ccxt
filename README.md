@@ -34,6 +34,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [pine-bot-client](https://github.com/kzh-dev/pine-bot-client)
 - [cryptobot](https://github.com/Zane-/cryptobot) - lowhighbot, poolbot, releasebot
 - [ccxt-trader](https://github.com/Schnides123/ccxt-trader) - cryptocurrency arbitrage calculator on #python
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 3-model ML ensemble (XGBoost, HMM, Transformer), 70.9% walk-forward accuracy, 12 exchanges via CCXT. Cloud platform with dashboard and backtesting.
 - [KryptoBot](https://github.com/eristoddle/KryptoBot)
 - [blockbid-ccxt-tutorials](https://github.com/thomasdavis/blockbid-ccxt-tutorials)
 - [trader0](https://github.com/kebnekaise-io/trader0)
