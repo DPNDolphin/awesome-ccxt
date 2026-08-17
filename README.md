@@ -61,6 +61,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [Visuccxt](https://github.com/wnklb/Visuccxt) - #python
 - [DataSynchronizer](https://github.com/stockmlbot/DataSynchronizer)
 - [Trading-indicator](https://github.com/thanhnguyennguyen/trading-indicator) - fetch data with ccxt and generate indicators
+- [pmxt](https://github.com/pmxt-dev/pmxt) - The ccxt for prediction markets: a unified api for trading across prediction markets.
 
 ## Trading terminals
 
