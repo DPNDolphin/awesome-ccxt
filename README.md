@@ -72,7 +72,9 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 
 ## Analytics platforms
 
+- [CoinPaprika](https://docs.coinpaprika.com) - crypto market data API covering 12,000+ coins and 350+ exchanges with tickers, OHLCV, and historical prices.
 - [CoinTop](https://github.com/fatihacet/CoinTop) - portfolio with secure access to keys
+- [DexPaprika](https://docs.dexpaprika.com) - DEX data API covering 34 chains with pool analytics, token metadata, OHLCV charts, and real-time streaming.
 - [DACP](https://github.com/Pyeskyhigh/DACP) - portfolio
 - [hodlwatch](https://github.com/belaczek/hodlwatch) - portfolio
 - [Live-Crypto-Dashboard-and-DB](https://github.com/srozov/Live-Crypto-Dashboard-and-DB) - python, sentiments
